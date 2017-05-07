@@ -1,0 +1,64 @@
+body {
+	background-color: black;
+}
+h1 {
+	/*display: inline-block;*/
+	margin-left: 150px;
+	font-family: sans-serif;
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+h3 {
+	display: inline-block;
+	margin-left: 350px;
+	margin-top: 0px;
+}
+#title {
+	display: inline-block;
+	height: 120px;
+}
+#red {
+	color: red;
+}
+#white {
+	color:#C5BDB5;
+}
+#blue {
+	color: blue;
+}
+#eagle{
+	width: 970px;
+	height: 750px;
+	opacity: 0.5;
+}
+#wrapper {
+	width: 970px;
+	height:750px;
+	background:url("images/murica.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding:0px;
+	margin: 0 auto;
+}
+#header {
+	width: 968px;
+	height: 120px;
+	border: 2px solid red;
+	padding:0px;
+	margin: 0 auto;
+	background-color: white;
+}
+#header img {
+	width: 190px;
+	height: auto;
+	margin-top: 5px;
+}
+#chat {
+    width: 969px;
+	height: 100%;
+	opacity: 0.5; 
+	margin:0 auto;
+}
+#cha
